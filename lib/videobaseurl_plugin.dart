@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 
-const String BASE_URL = "http://39.98.219.121/";
+const String VIDEO_BASE_URL = "http://39.98.219.121/";
 
 
 class VideobaseurlPlugin {
